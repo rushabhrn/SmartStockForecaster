@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# CSV files
+*.csv
+
+# PDF files
+*.pdf
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# Virtual environment
+venv/
+env/
+.env/
+
+# Logs
+*.log
+
+# Requirements
+requirements.txt
